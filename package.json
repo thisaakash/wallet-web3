@@ -1,4 +1,13 @@
 {
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo j"
+  },
   "dependencies": {
     "express": "^4.18.2",
     "web3": "^1.8.2"
